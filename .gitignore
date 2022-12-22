@@ -1,0 +1,8 @@
+
+.DS_Store
+CIFAR-10-images/test/test_batch
+CIFAR-10-images/train/data_batch_1
+CIFAR-10-images/train/data_batch_2
+CIFAR-10-images/train/data_batch_3
+CIFAR-10-images/train/data_batch_4
+CIFAR-10-images/train/data_batch_5
