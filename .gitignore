@@ -42,3 +42,5 @@ train/cifar-10-batches-py/data_batch_5
 train/cifar-10-batches-py/readme.html
 train/cifar-10-batches-py/test_batch
 train/cifar-10-python.tar.gz
+Notebooks/CIFAR-10_Image_Classifier-TutorialNB.ipynb
+Tutorial_Notebooks/cifar-10-cnn-using-pytorch.ipynb
